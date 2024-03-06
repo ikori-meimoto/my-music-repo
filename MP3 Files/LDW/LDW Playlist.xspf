@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/This%20is%20my%20journey%20-%20LDW.mp3</location>
+			<duration>129071</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/_Do%20your%20worst%21_%20-%20LDW.mp3</location>
+			<duration>102060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/A%20Simple%20Beat%20-%20LDW.mp3</location>
+			<duration>112065</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/He%27s%20Back%20Again%20-%20LDW.mp3</location>
+			<duration>131422</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/Lex%27s%20Relaxation%20-%20LDW.mp3</location>
+			<duration>101407</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/Lex%27s%20Theme%20-%20LDW.mp3</location>
+			<duration>79359</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/Overlord%20Ikori%20-%20LDW.mp3</location>
+			<duration>162063</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/Pat%27s%20Theme%20-%20LDW.mp3</location>
+			<duration>129306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///L:/Projects/my-music-repo/MP3%20Files/LDW/This%20is%20my%20journey%20-%20LDW.mp3</location>
+			<duration>129071</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
