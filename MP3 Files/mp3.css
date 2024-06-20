@@ -1,0 +1,30 @@
+.cont{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont > h3{
+    grid-column: 1 / 4;
+    text-align: center;
+}
+
+.cont > a{
+    border: 4px solid rgb(79, 79, 79);
+    background-color: rgb(79, 79, 79);
+    border-radius: 5px;
+
+    text-align: center;
+    text-decoration: none;
+    color: antiquewhite;
+
+    padding: 3px;
+    margin: 10px;
+}
+
+.cont > a:hover{
+    color: rgb(159, 149, 136);
+    border: 4px solid rgb(185, 185, 185);
+    background-color: rgb(185, 185, 185);
+}
