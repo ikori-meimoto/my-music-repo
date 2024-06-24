@@ -1,0 +1,29 @@
+.cont{
+    display: grid;
+}
+
+#nav-bar{
+    display: flex;
+    justify-content: space-around;
+
+    border: 3px solid black;
+    border-radius: 5px;
+
+    padding: 10px;
+
+    background-color: rgb(32, 32, 32);
+}
+
+#nav-bar > a{
+    text-decoration: none;
+    color: antiquewhite;
+    
+    margin: 2px;
+}
+#main{
+    margin: 10px;
+}
+
+#github-logo{
+    height: 85px;
+}
