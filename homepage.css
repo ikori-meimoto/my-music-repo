@@ -1,5 +1,7 @@
 .cont{
     display: grid;
+
+    text-align: center;
 }
 
 #nav-bar{

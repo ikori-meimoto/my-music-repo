@@ -29,6 +29,14 @@
     background-color: rgb(185, 185, 185);
 }
 
+#main{
+    display: block;
+
+    grid-column-end: 3;
+
+    text-align: center;
+}
+
 #nav-bar{
     display: flex;
     justify-content: space-around;
