@@ -16,3 +16,9 @@
     
     margin: 2px;
 }
+
+.cont{
+    display: grid;
+
+    text-align: center;
+}
