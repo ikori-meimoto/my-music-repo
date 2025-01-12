@@ -10,7 +10,7 @@ Lex's Intro - LDW.mid
 Wait, what_ - LDW.mid
 Resting Time - LDW.mid
 Leo's Theme - LDW.mid
-Leo's Other Theme - LDW.mid
+Leo's Other Theme -LDW.mid
 Theme for a Character - LDW.mid
 Suspicious 1950's Alley - LDW.mid
 A Bad Guy! - LDW.mid
@@ -26,7 +26,14 @@ Trickster's Folly - LDW.mid
 _Do your worst!_ - LDW.mid
 _This is my journey__ - LDW.mid
 A Simple Beat - LDW.mid
+A Simple Beat (new) - LDW.mid
 Lex's Theme - LDW.mid
 Pat's Theme - LDW.mid
 Something Behind you.mid
+Livadia - LDW.mid
+Vs. Livadia - LDW.mid
+Trouble in the Desert! - LDW.mid
+Ｔｈｅ Ｕｎｄｅｒ.mid
+Your Will - LDW.mid
+Consideration of Care - LDW.mid
 main.txt
