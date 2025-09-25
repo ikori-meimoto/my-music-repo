@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Radical Piano
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="se.propellerheads.radicalpiano"  deviceVersion="1.0.5" >
+        <Object name="custom_properties" >
+            <Value property="Attack"  type="number" >
+                0.0625
+            </Value>
+            <Value property="Decay"  type="number" >
+                0.3907001018524169921875
+            </Value>
+            <Value property="Release"  type="number" >
+                0.468800067901611328125
+            </Value>
+            <Value property="Eq On"  type="number" >
+                1
+            </Value>
+            <Value property="LowGain"  type="number" >
+                0.7186000347137451171875
+            </Value>
+            <Value property="MidGain"  type="number" >
+                0.875
+            </Value>
+            <Value property="HiGain"  type="number" >
+                0.8282001018524169921875
+            </Value>
+            <Value property="KeyShift"  type="number" >
+                12
+            </Value>
+            <Value property="mic1"  type="number" >
+                3
+            </Value>
+            <Value property="mic2"  type="number" >
+                8
+            </Value>
+            <Value property="Mix"  type="number" >
+                0
+            </Value>
+            <Value property="AmbienceLevel"  type="number" >
+                0.531199932098388671875
+            </Value>
+            <Value property="Type"  type="number" >
+                1
+            </Value>
+            <Value property="Width"  type="number" >
+                0.4375
+            </Value>
+            <Value property="Compress"  type="number" >
+                0.453299999237060546875
+            </Value>
+            <Value property="Volume"  type="number" >
+                1
+            </Value>
+            <Value property="Tune"  type="number" >
+                0.4844000339508056640625
+            </Value>
+            <Value property="Drift"  type="number" >
+                0
+            </Value>
+            <Value property="KeyDown"  type="number" >
+                0.5000998973846435546875
+            </Value>
+            <Value property="KeyUp"  type="number" >
+                0.3594000339508056640625
+            </Value>
+            <Value property="Pedal"  type="number" >
+                0.3282001018524169921875
+            </Value>
+            <Value property="ResoRelease"  type="number" >
+                0.6407001018524169921875
+            </Value>
+            <Value property="ResoLevel"  type="number" >
+                0.7657001018524169921875
+            </Value>
+            <Value property="MinVel"  type="number" >
+                0
+            </Value>
+            <Value property="MaxVel"  type="number" >
+                0.0625
+            </Value>
+            <Value property="Curve"  type="number" >
+                0.5
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>
