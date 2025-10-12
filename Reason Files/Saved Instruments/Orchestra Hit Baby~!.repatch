@@ -1,0 +1,2160 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="se.propellerheads.Mimic"  deviceVersion="1.2.6" >
+    <DeviceNameInEnglish>
+        Mimic Creative Sampler
+    </DeviceNameInEnglish>
+    <Samples>
+        <SampleReference trueName="Hit (3).wav"  userFriendlyName="Hit (3)"  type="sample" >
+            <AbsolutePath>
+                <Volume name=""  type="unknown" />
+                <Path partOfReFill="no" >
+                    /This PC/MyIkori (M:)/Projects/my-music-repo/Reason Files/Saved Instruments/Samples/orchestral_hits_sound_pack/Hit (3).wav
+                </Path>
+                <NativeURL mode="Win32File" >
+                    file://M:\Projects\my-music-repo\Reason Files\Saved Instruments\Samples\orchestral_hits_sound_pack\Hit (3).wav
+                </NativeURL>
+            </AbsolutePath>
+            <RelativePath>
+                <Path>
+                    /Samples/orchestral_hits_sound_pack/Hit (3).wav
+                </Path>
+                <StepUp>
+                    0
+                </StepUp>
+            </RelativePath>
+        </SampleReference>
+    </Samples>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="Amp Gain 1"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Amp Attack 1"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Release 1"  type="number" >
+                0.183000087738037109375
+            </Value>
+            <Value property="Filter Attack 1"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Decay 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Release 1"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter Env 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Effect Mix 1"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Mod 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="End Pos 1"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Freq 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Grain Len 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Synced Rate 1"  type="number" >
+                10
+            </Value>
+            <Value property="Loop Length 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Semi 1"  type="number" >
+                24
+            </Value>
+            <Value property="Reverse 1"  type="number" >
+                0
+            </Value>
+            <Value property="Lo Cut 1"  type="number" >
+                0
+            </Value>
+            <Value property="Hi Cut 1"  type="number" >
+                1
+            </Value>
+            <Value property="Start Pos 1"  type="number" >
+                0
+            </Value>
+            <Value property="Stretch Speed 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Voice Formant 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Gain 2"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Amp Attack 2"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Release 2"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="Filter Attack 2"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Decay 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Release 2"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Effect Mix 2"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Mod 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="End Pos 2"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Env 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Freq 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Grain Len 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Synced Rate 2"  type="number" >
+                10
+            </Value>
+            <Value property="Loop Length 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Semi 2"  type="number" >
+                24
+            </Value>
+            <Value property="Reverse 2"  type="number" >
+                0
+            </Value>
+            <Value property="Lo Cut 2"  type="number" >
+                0
+            </Value>
+            <Value property="Hi Cut 2"  type="number" >
+                1
+            </Value>
+            <Value property="Start Pos 2"  type="number" >
+                0
+            </Value>
+            <Value property="Stretch Speed 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Voice Formant 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Gain 3"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Amp Attack 3"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Release 3"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="Filter Attack 3"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Decay 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Release 3"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Effect Mix 3"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Mod 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="End Pos 3"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Env 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Freq 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Grain Len 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Synced Rate 3"  type="number" >
+                10
+            </Value>
+            <Value property="Loop Length 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Semi 3"  type="number" >
+                24
+            </Value>
+            <Value property="Reverse 3"  type="number" >
+                0
+            </Value>
+            <Value property="Lo Cut 3"  type="number" >
+                0
+            </Value>
+            <Value property="Hi Cut 3"  type="number" >
+                1
+            </Value>
+            <Value property="Start Pos 3"  type="number" >
+                0
+            </Value>
+            <Value property="Stretch Speed 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Voice Formant 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Gain 4"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Amp Attack 4"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Release 4"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="Filter Attack 4"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Decay 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Release 4"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Effect Mix 4"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Mod 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="End Pos 4"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Env 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Freq 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Grain Len 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Synced Rate 4"  type="number" >
+                10
+            </Value>
+            <Value property="Loop Length 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Semi 4"  type="number" >
+                24
+            </Value>
+            <Value property="Reverse 4"  type="number" >
+                0
+            </Value>
+            <Value property="Lo Cut 4"  type="number" >
+                0
+            </Value>
+            <Value property="Hi Cut 4"  type="number" >
+                1
+            </Value>
+            <Value property="Start Pos 4"  type="number" >
+                0
+            </Value>
+            <Value property="Stretch Speed 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Voice Formant 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Gain 5"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Amp Attack 5"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Release 5"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="Filter Attack 5"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Decay 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Release 5"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Effect Mix 5"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Mod 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="End Pos 5"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Env 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Freq 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Grain Len 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Synced Rate 5"  type="number" >
+                10
+            </Value>
+            <Value property="Loop Length 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Semi 5"  type="number" >
+                24
+            </Value>
+            <Value property="Reverse 5"  type="number" >
+                0
+            </Value>
+            <Value property="Lo Cut 5"  type="number" >
+                0
+            </Value>
+            <Value property="Hi Cut 5"  type="number" >
+                1
+            </Value>
+            <Value property="Start Pos 5"  type="number" >
+                0
+            </Value>
+            <Value property="Stretch Speed 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Voice Formant 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Gain 6"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Amp Attack 6"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Release 6"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="Filter Attack 6"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Decay 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Release 6"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Effect Mix 6"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Mod 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="End Pos 6"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Env 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Freq 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Grain Len 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Synced Rate 6"  type="number" >
+                10
+            </Value>
+            <Value property="Loop Length 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Semi 6"  type="number" >
+                24
+            </Value>
+            <Value property="Reverse 6"  type="number" >
+                0
+            </Value>
+            <Value property="Lo Cut 6"  type="number" >
+                0
+            </Value>
+            <Value property="Hi Cut 6"  type="number" >
+                1
+            </Value>
+            <Value property="Start Pos 6"  type="number" >
+                0
+            </Value>
+            <Value property="Stretch Speed 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Voice Formant 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Gain 7"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Amp Attack 7"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Release 7"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="Filter Attack 7"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Decay 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Release 7"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Effect Mix 7"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Mod 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="End Pos 7"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Env 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Freq 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Grain Len 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Synced Rate 7"  type="number" >
+                10
+            </Value>
+            <Value property="Loop Length 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Semi 7"  type="number" >
+                24
+            </Value>
+            <Value property="Reverse 7"  type="number" >
+                0
+            </Value>
+            <Value property="Lo Cut 7"  type="number" >
+                0
+            </Value>
+            <Value property="Hi Cut 7"  type="number" >
+                1
+            </Value>
+            <Value property="Start Pos 7"  type="number" >
+                0
+            </Value>
+            <Value property="Stretch Speed 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Voice Formant 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Gain 8"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Amp Attack 8"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Decay 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Release 8"  type="number" >
+                0.0499999523162841796875
+            </Value>
+            <Value property="Filter Attack 8"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Decay 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Release 8"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Effect Mix 8"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Mod 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="End Pos 8"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Env 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Freq 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Reso 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Grain Len 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Rate 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Synced Rate 8"  type="number" >
+                10
+            </Value>
+            <Value property="Loop Length 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Semi 8"  type="number" >
+                24
+            </Value>
+            <Value property="Reverse 8"  type="number" >
+                0
+            </Value>
+            <Value property="Lo Cut 8"  type="number" >
+                0
+            </Value>
+            <Value property="Hi Cut 8"  type="number" >
+                1
+            </Value>
+            <Value property="Start Pos 8"  type="number" >
+                0
+            </Value>
+            <Value property="Stretch Speed 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Voice Formant 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="UserSlices 1"  type="string" >
+                010145A3
+            </Value>
+            <Value property="DefaultSlices 1"  type="string" >
+                010145A3
+            </Value>
+            <Value property="UserSlices 2"  type="string" >
+                01010193017C742301CC2F1401F88E20022DE4170257341C
+            </Value>
+            <Value property="DefaultSlices 2"  type="string" >
+                01010193017C742301CC2F1401F88E20022DE4170257341C
+            </Value>
+            <Value property="UserSlices 3"  type="string" />
+            <Value property="DefaultSlices 3"  type="string" />
+            <Value property="UserSlices 4"  type="string" />
+            <Value property="DefaultSlices 4"  type="string" />
+            <Value property="UserSlices 5"  type="string" />
+            <Value property="DefaultSlices 5"  type="string" />
+            <Value property="UserSlices 6"  type="string" />
+            <Value property="DefaultSlices 6"  type="string" />
+            <Value property="UserSlices 7"  type="string" />
+            <Value property="DefaultSlices 7"  type="string" />
+            <Value property="UserSlices 8"  type="string" />
+            <Value property="DefaultSlices 8"  type="string" />
+            <Value property="Scroll 1"  type="number" >
+                0
+            </Value>
+            <Value property="Zoom 1"  type="number" >
+                1
+            </Value>
+            <Value property="Amp Sustain 1"  type="number" >
+                1
+            </Value>
+            <Value property="Master Volume"  type="number" >
+                0.6309998035430908203125
+            </Value>
+            <Value property="Tune 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Portamento Rate 1"  type="number" >
+                0.25
+            </Value>
+            <Value property="Key Mode 1"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento Mode 1"  type="number" >
+                2
+            </Value>
+            <Value property="Pitchbend Range 1"  type="number" >
+                2
+            </Value>
+            <Value property="Stretch Mode 1"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Beat Sync 1"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave 1"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Velocity 1"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type 1"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Vel 1"  type="number" >
+                0
+            </Value>
+            <Value property="Global Pos 1"  type="number" >
+                0
+            </Value>
+            <Value property="Slice Sens 1"  type="number" >
+                1
+            </Value>
+            <Value property="Play Mode"  type="number" >
+                0
+            </Value>
+            <Value property="Algorithm"  type="number" >
+                0
+            </Value>
+            <Value property="Transients On 1"  type="number" >
+                1
+            </Value>
+            <Value property="Grain Overlap 1"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Grain Spread 1"  type="number" >
+                0
+            </Value>
+            <Value property="Grain Jitter 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Loop On 1"  type="number" >
+                0
+            </Value>
+            <Value property="Loop Xfade 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="LFO Key Sync 1"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay 1"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Sustain 1"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Mod 1"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Drive 1"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter ModAmt 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Mod 1"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch ModAmt 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch LFOAmt 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lo Key 1"  type="number" >
+                36
+            </Value>
+            <Value property="Hi Key 1"  type="number" >
+                108
+            </Value>
+            <Value property="Amp ModAmt 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Mod 1"  type="number" >
+                0
+            </Value>
+            <Value property="Pan ModAmt 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan Mod 1"  type="number" >
+                0
+            </Value>
+            <Value property="Root Key 1"  type="number" >
+                60
+            </Value>
+            <Value property="MW LFO 1"  type="number" >
+                0
+            </Value>
+            <Value property="Play Thru 1"  type="number" >
+                0
+            </Value>
+            <Value property="Snap Slices 1"  type="number" >
+                0
+            </Value>
+            <Value property="Speed ModAmt 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Speed Mod 1"  type="number" >
+                0
+            </Value>
+            <Value property="Start ModAmt 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Start Mod 1"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Fixed 1"  type="number" >
+                0
+            </Value>
+            <Value property="Send1 1"  type="number" >
+                0
+            </Value>
+            <Value property="Send2 1"  type="number" >
+                0
+            </Value>
+            <Value property="Squeeze 1"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Type 1"  type="number" >
+                0
+            </Value>
+            <Value property="Scroll 2"  type="number" >
+                0
+            </Value>
+            <Value property="Zoom 2"  type="number" >
+                1
+            </Value>
+            <Value property="Tune 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Stretch Mode 2"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave 2"  type="number" >
+                0
+            </Value>
+            <Value property="Global Pos 2"  type="number" >
+                0
+            </Value>
+            <Value property="Slice Sens 2"  type="number" >
+                1
+            </Value>
+            <Value property="Transients On 2"  type="number" >
+                1
+            </Value>
+            <Value property="Grain Overlap 2"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Grain Spread 2"  type="number" >
+                0
+            </Value>
+            <Value property="Grain Jitter 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Loop Xfade 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Mod 2"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch ModAmt 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lo Key 2"  type="number" >
+                36
+            </Value>
+            <Value property="Hi Key 2"  type="number" >
+                108
+            </Value>
+            <Value property="Root Key 2"  type="number" >
+                60
+            </Value>
+            <Value property="MW LFO 2"  type="number" >
+                0
+            </Value>
+            <Value property="Play Thru 2"  type="number" >
+                0
+            </Value>
+            <Value property="Snap Slices 2"  type="number" >
+                0
+            </Value>
+            <Value property="Scroll 3"  type="number" >
+                0
+            </Value>
+            <Value property="Zoom 3"  type="number" >
+                1
+            </Value>
+            <Value property="Tune 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Stretch Mode 3"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave 3"  type="number" >
+                0
+            </Value>
+            <Value property="Global Pos 3"  type="number" >
+                0
+            </Value>
+            <Value property="Slice Sens 3"  type="number" >
+                1
+            </Value>
+            <Value property="Transients On 3"  type="number" >
+                1
+            </Value>
+            <Value property="Grain Overlap 3"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Grain Spread 3"  type="number" >
+                0
+            </Value>
+            <Value property="Grain Jitter 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Loop Xfade 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Mod 3"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch ModAmt 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lo Key 3"  type="number" >
+                36
+            </Value>
+            <Value property="Hi Key 3"  type="number" >
+                108
+            </Value>
+            <Value property="Root Key 3"  type="number" >
+                60
+            </Value>
+            <Value property="MW LFO 3"  type="number" >
+                0
+            </Value>
+            <Value property="Play Thru 3"  type="number" >
+                0
+            </Value>
+            <Value property="Snap Slices 3"  type="number" >
+                0
+            </Value>
+            <Value property="Scroll 4"  type="number" >
+                0
+            </Value>
+            <Value property="Zoom 4"  type="number" >
+                1
+            </Value>
+            <Value property="Tune 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Stretch Mode 4"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave 4"  type="number" >
+                0
+            </Value>
+            <Value property="Global Pos 4"  type="number" >
+                0
+            </Value>
+            <Value property="Slice Sens 4"  type="number" >
+                1
+            </Value>
+            <Value property="Transients On 4"  type="number" >
+                1
+            </Value>
+            <Value property="Grain Overlap 4"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Grain Spread 4"  type="number" >
+                0
+            </Value>
+            <Value property="Grain Jitter 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Loop Xfade 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Mod 4"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch ModAmt 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lo Key 4"  type="number" >
+                36
+            </Value>
+            <Value property="Hi Key 4"  type="number" >
+                108
+            </Value>
+            <Value property="Root Key 4"  type="number" >
+                60
+            </Value>
+            <Value property="MW LFO 4"  type="number" >
+                0
+            </Value>
+            <Value property="Play Thru 4"  type="number" >
+                0
+            </Value>
+            <Value property="Snap Slices 4"  type="number" >
+                0
+            </Value>
+            <Value property="Scroll 5"  type="number" >
+                0
+            </Value>
+            <Value property="Zoom 5"  type="number" >
+                1
+            </Value>
+            <Value property="Tune 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Stretch Mode 5"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave 5"  type="number" >
+                0
+            </Value>
+            <Value property="Global Pos 5"  type="number" >
+                0
+            </Value>
+            <Value property="Slice Sens 5"  type="number" >
+                1
+            </Value>
+            <Value property="Transients On 5"  type="number" >
+                1
+            </Value>
+            <Value property="Grain Overlap 5"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Grain Spread 5"  type="number" >
+                0
+            </Value>
+            <Value property="Grain Jitter 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Loop Xfade 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Mod 5"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch ModAmt 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lo Key 5"  type="number" >
+                36
+            </Value>
+            <Value property="Hi Key 5"  type="number" >
+                108
+            </Value>
+            <Value property="Root Key 5"  type="number" >
+                60
+            </Value>
+            <Value property="MW LFO 5"  type="number" >
+                0
+            </Value>
+            <Value property="Play Thru 5"  type="number" >
+                0
+            </Value>
+            <Value property="Snap Slices 5"  type="number" >
+                0
+            </Value>
+            <Value property="Scroll 6"  type="number" >
+                0
+            </Value>
+            <Value property="Zoom 6"  type="number" >
+                1
+            </Value>
+            <Value property="Tune 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Stretch Mode 6"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave 6"  type="number" >
+                0
+            </Value>
+            <Value property="Global Pos 6"  type="number" >
+                0
+            </Value>
+            <Value property="Slice Sens 6"  type="number" >
+                1
+            </Value>
+            <Value property="Transients On 6"  type="number" >
+                1
+            </Value>
+            <Value property="Grain Overlap 6"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Grain Spread 6"  type="number" >
+                0
+            </Value>
+            <Value property="Grain Jitter 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Loop Xfade 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Mod 6"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch ModAmt 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lo Key 6"  type="number" >
+                36
+            </Value>
+            <Value property="Hi Key 6"  type="number" >
+                108
+            </Value>
+            <Value property="Root Key 6"  type="number" >
+                60
+            </Value>
+            <Value property="MW LFO 6"  type="number" >
+                0
+            </Value>
+            <Value property="Play Thru 6"  type="number" >
+                0
+            </Value>
+            <Value property="Snap Slices 6"  type="number" >
+                0
+            </Value>
+            <Value property="Scroll 7"  type="number" >
+                0
+            </Value>
+            <Value property="Zoom 7"  type="number" >
+                1
+            </Value>
+            <Value property="Tune 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Stretch Mode 7"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave 7"  type="number" >
+                0
+            </Value>
+            <Value property="Global Pos 7"  type="number" >
+                0
+            </Value>
+            <Value property="Slice Sens 7"  type="number" >
+                1
+            </Value>
+            <Value property="Transients On 7"  type="number" >
+                1
+            </Value>
+            <Value property="Grain Overlap 7"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Grain Spread 7"  type="number" >
+                0
+            </Value>
+            <Value property="Grain Jitter 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Loop Xfade 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Mod 7"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch ModAmt 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lo Key 7"  type="number" >
+                36
+            </Value>
+            <Value property="Hi Key 7"  type="number" >
+                108
+            </Value>
+            <Value property="Root Key 7"  type="number" >
+                60
+            </Value>
+            <Value property="MW LFO 7"  type="number" >
+                0
+            </Value>
+            <Value property="Play Thru 7"  type="number" >
+                0
+            </Value>
+            <Value property="Snap Slices 7"  type="number" >
+                0
+            </Value>
+            <Value property="Scroll 8"  type="number" >
+                0
+            </Value>
+            <Value property="Zoom 8"  type="number" >
+                1
+            </Value>
+            <Value property="Tune 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Stretch Mode 8"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Wave 8"  type="number" >
+                0
+            </Value>
+            <Value property="Global Pos 8"  type="number" >
+                0
+            </Value>
+            <Value property="Slice Sens 8"  type="number" >
+                1
+            </Value>
+            <Value property="Transients On 8"  type="number" >
+                1
+            </Value>
+            <Value property="Grain Overlap 8"  type="number" >
+                0.69999980926513671875
+            </Value>
+            <Value property="Grain Spread 8"  type="number" >
+                0
+            </Value>
+            <Value property="Grain Jitter 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Loop Xfade 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch Mod 8"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch ModAmt 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Lo Key 8"  type="number" >
+                36
+            </Value>
+            <Value property="Hi Key 8"  type="number" >
+                108
+            </Value>
+            <Value property="Root Key 8"  type="number" >
+                60
+            </Value>
+            <Value property="MW LFO 8"  type="number" >
+                0
+            </Value>
+            <Value property="Play Thru 8"  type="number" >
+                0
+            </Value>
+            <Value property="Snap Slices 8"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Sustain 2"  type="number" >
+                1
+            </Value>
+            <Value property="LFO Beat Sync 2"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Velocity 2"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Vel 2"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Key Sync 2"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay 2"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Mod 2"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Drive 2"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter ModAmt 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp ModAmt 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Mod 2"  type="number" >
+                0
+            </Value>
+            <Value property="Pan ModAmt 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan Mod 2"  type="number" >
+                0
+            </Value>
+            <Value property="Speed ModAmt 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Speed Mod 2"  type="number" >
+                0
+            </Value>
+            <Value property="Start ModAmt 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Start Mod 2"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Fixed 2"  type="number" >
+                0
+            </Value>
+            <Value property="Send1 2"  type="number" >
+                0
+            </Value>
+            <Value property="Send2 2"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Sustain 3"  type="number" >
+                1
+            </Value>
+            <Value property="LFO Beat Sync 3"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Velocity 3"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Vel 3"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Key Sync 3"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay 3"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Mod 3"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Drive 3"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter ModAmt 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp ModAmt 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Mod 3"  type="number" >
+                0
+            </Value>
+            <Value property="Pan ModAmt 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan Mod 3"  type="number" >
+                0
+            </Value>
+            <Value property="Speed ModAmt 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Speed Mod 3"  type="number" >
+                0
+            </Value>
+            <Value property="Start ModAmt 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Start Mod 3"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Fixed 3"  type="number" >
+                0
+            </Value>
+            <Value property="Send1 3"  type="number" >
+                0
+            </Value>
+            <Value property="Send2 3"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Sustain 4"  type="number" >
+                1
+            </Value>
+            <Value property="LFO Beat Sync 4"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Velocity 4"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Vel 4"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Key Sync 4"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay 4"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Mod 4"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Drive 4"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter ModAmt 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp ModAmt 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Mod 4"  type="number" >
+                0
+            </Value>
+            <Value property="Pan ModAmt 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan Mod 4"  type="number" >
+                0
+            </Value>
+            <Value property="Speed ModAmt 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Speed Mod 4"  type="number" >
+                0
+            </Value>
+            <Value property="Start ModAmt 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Start Mod 4"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Fixed 4"  type="number" >
+                0
+            </Value>
+            <Value property="Send1 4"  type="number" >
+                0
+            </Value>
+            <Value property="Send2 4"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Sustain 5"  type="number" >
+                1
+            </Value>
+            <Value property="LFO Beat Sync 5"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Velocity 5"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Vel 5"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Key Sync 5"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay 5"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Mod 5"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Drive 5"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter ModAmt 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp ModAmt 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Mod 5"  type="number" >
+                0
+            </Value>
+            <Value property="Pan ModAmt 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan Mod 5"  type="number" >
+                0
+            </Value>
+            <Value property="Speed ModAmt 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Speed Mod 5"  type="number" >
+                0
+            </Value>
+            <Value property="Start ModAmt 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Start Mod 5"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Fixed 5"  type="number" >
+                0
+            </Value>
+            <Value property="Send1 5"  type="number" >
+                0
+            </Value>
+            <Value property="Send2 5"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Sustain 6"  type="number" >
+                1
+            </Value>
+            <Value property="LFO Beat Sync 6"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Velocity 6"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Vel 6"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Key Sync 6"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay 6"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Mod 6"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Drive 6"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter ModAmt 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp ModAmt 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Mod 6"  type="number" >
+                0
+            </Value>
+            <Value property="Pan ModAmt 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan Mod 6"  type="number" >
+                0
+            </Value>
+            <Value property="Speed ModAmt 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Speed Mod 6"  type="number" >
+                0
+            </Value>
+            <Value property="Start ModAmt 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Start Mod 6"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Fixed 6"  type="number" >
+                0
+            </Value>
+            <Value property="Send1 6"  type="number" >
+                0
+            </Value>
+            <Value property="Send2 6"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Sustain 7"  type="number" >
+                1
+            </Value>
+            <Value property="LFO Beat Sync 7"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Velocity 7"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Vel 7"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Key Sync 7"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay 7"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Mod 7"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Drive 7"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter ModAmt 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp ModAmt 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Mod 7"  type="number" >
+                0
+            </Value>
+            <Value property="Pan ModAmt 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan Mod 7"  type="number" >
+                0
+            </Value>
+            <Value property="Speed ModAmt 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Speed Mod 7"  type="number" >
+                0
+            </Value>
+            <Value property="Start ModAmt 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Start Mod 7"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Fixed 7"  type="number" >
+                0
+            </Value>
+            <Value property="Send1 7"  type="number" >
+                0
+            </Value>
+            <Value property="Send2 7"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Sustain 8"  type="number" >
+                1
+            </Value>
+            <Value property="LFO Beat Sync 8"  type="number" >
+                0
+            </Value>
+            <Value property="Amp Velocity 8"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Kbd 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Vel 8"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Key Sync 8"  type="number" >
+                0
+            </Value>
+            <Value property="LFO Delay 8"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Mod 8"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Drive 8"  type="number" >
+                0.099999904632568359375
+            </Value>
+            <Value property="Filter ModAmt 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp ModAmt 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Amp Mod 8"  type="number" >
+                0
+            </Value>
+            <Value property="Pan ModAmt 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pan Mod 8"  type="number" >
+                0
+            </Value>
+            <Value property="Speed ModAmt 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Speed Mod 8"  type="number" >
+                0
+            </Value>
+            <Value property="Start ModAmt 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Start Mod 8"  type="number" >
+                0
+            </Value>
+            <Value property="Voice Fixed 8"  type="number" >
+                0
+            </Value>
+            <Value property="Send1 8"  type="number" >
+                0
+            </Value>
+            <Value property="Send2 8"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Type 2"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Type 3"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Type 4"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Type 5"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Type 6"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Type 7"  type="number" >
+                0
+            </Value>
+            <Value property="Effect Type 8"  type="number" >
+                0
+            </Value>
+            <Value property="Squeeze 2"  type="number" >
+                0
+            </Value>
+            <Value property="Squeeze 3"  type="number" >
+                0
+            </Value>
+            <Value property="Squeeze 4"  type="number" >
+                0
+            </Value>
+            <Value property="Squeeze 5"  type="number" >
+                0
+            </Value>
+            <Value property="Squeeze 6"  type="number" >
+                0
+            </Value>
+            <Value property="Squeeze 7"  type="number" >
+                0
+            </Value>
+            <Value property="Squeeze 8"  type="number" >
+                0
+            </Value>
+            <Value property="Key Mode 2"  type="number" >
+                2
+            </Value>
+            <Value property="Key Mode 3"  type="number" >
+                2
+            </Value>
+            <Value property="Key Mode 4"  type="number" >
+                2
+            </Value>
+            <Value property="Key Mode 5"  type="number" >
+                2
+            </Value>
+            <Value property="Key Mode 6"  type="number" >
+                2
+            </Value>
+            <Value property="Key Mode 7"  type="number" >
+                2
+            </Value>
+            <Value property="Key Mode 8"  type="number" >
+                2
+            </Value>
+            <Value property="Filter Type 2"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type 3"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type 4"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type 5"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type 6"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type 7"  type="number" >
+                0
+            </Value>
+            <Value property="Filter Type 8"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch LFOAmt 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch LFOAmt 3"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch LFOAmt 4"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch LFOAmt 5"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch LFOAmt 6"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch LFOAmt 7"  type="number" >
+                0.5
+            </Value>
+            <Value property="Pitch LFOAmt 8"  type="number" >
+                0.5
+            </Value>
+            <Value property="Filter Sustain 2"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Sustain 3"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Sustain 4"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Sustain 5"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Sustain 6"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Sustain 7"  type="number" >
+                1
+            </Value>
+            <Value property="Filter Sustain 8"  type="number" >
+                1
+            </Value>
+            <Value property="Loop On 2"  type="number" >
+                0
+            </Value>
+            <Value property="Loop On 3"  type="number" >
+                0
+            </Value>
+            <Value property="Loop On 4"  type="number" >
+                0
+            </Value>
+            <Value property="Loop On 5"  type="number" >
+                0
+            </Value>
+            <Value property="Loop On 6"  type="number" >
+                0
+            </Value>
+            <Value property="Loop On 7"  type="number" >
+                0
+            </Value>
+            <Value property="Loop On 8"  type="number" >
+                0
+            </Value>
+            <Value property="Pitch Kbd 1"  type="number" >
+                1
+            </Value>
+            <Value property="Pitch Kbd 2"  type="number" >
+                1
+            </Value>
+            <Value property="Pitch Kbd 3"  type="number" >
+                1
+            </Value>
+            <Value property="Pitch Kbd 4"  type="number" >
+                1
+            </Value>
+            <Value property="Pitch Kbd 5"  type="number" >
+                1
+            </Value>
+            <Value property="Pitch Kbd 6"  type="number" >
+                1
+            </Value>
+            <Value property="Pitch Kbd 7"  type="number" >
+                1
+            </Value>
+            <Value property="Pitch Kbd 8"  type="number" >
+                1
+            </Value>
+            <Value property="Pitchbend Range 2"  type="number" >
+                2
+            </Value>
+            <Value property="Pitchbend Range 3"  type="number" >
+                2
+            </Value>
+            <Value property="Pitchbend Range 4"  type="number" >
+                2
+            </Value>
+            <Value property="Pitchbend Range 5"  type="number" >
+                2
+            </Value>
+            <Value property="Pitchbend Range 6"  type="number" >
+                2
+            </Value>
+            <Value property="Pitchbend Range 7"  type="number" >
+                2
+            </Value>
+            <Value property="Pitchbend Range 8"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento Rate 2"  type="number" >
+                0.25
+            </Value>
+            <Value property="Portamento Mode 2"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento Rate 3"  type="number" >
+                0.25
+            </Value>
+            <Value property="Portamento Mode 3"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento Rate 4"  type="number" >
+                0.25
+            </Value>
+            <Value property="Portamento Mode 4"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento Rate 5"  type="number" >
+                0.25
+            </Value>
+            <Value property="Portamento Mode 5"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento Rate 6"  type="number" >
+                0.25
+            </Value>
+            <Value property="Portamento Mode 6"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento Rate 7"  type="number" >
+                0.25
+            </Value>
+            <Value property="Portamento Mode 7"  type="number" >
+                2
+            </Value>
+            <Value property="Portamento Rate 8"  type="number" >
+                0.25
+            </Value>
+            <Value property="Portamento Mode 8"  type="number" >
+                2
+            </Value>
+            <Value property="Root Fine 1"  type="number" >
+                50
+            </Value>
+            <Value property="Root Fine 2"  type="number" >
+                50
+            </Value>
+            <Value property="Root Fine 3"  type="number" >
+                50
+            </Value>
+            <Value property="Root Fine 4"  type="number" >
+                50
+            </Value>
+            <Value property="Root Fine 5"  type="number" >
+                50
+            </Value>
+            <Value property="Root Fine 6"  type="number" >
+                50
+            </Value>
+            <Value property="Root Fine 7"  type="number" >
+                50
+            </Value>
+            <Value property="Root Fine 8"  type="number" >
+                50
+            </Value>
+        </Object>
+        <Object name="device_host" >
+            <Value property="sample_context"  type="number" >
+                0
+            </Value>
+        </Object>
+        <Object name="transport" />
+        <Object name="user_samples/0" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" >
+                0
+            </Value>
+        </Object>
+        <Object name="user_samples/1" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/2" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/3" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/4" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/5" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/6" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+        <Object name="user_samples/7" >
+            <Value property="root_key"  type="number" >
+                60
+            </Value>
+            <Value property="tune_cents"  type="number" >
+                50
+            </Value>
+            <Value property="play_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="play_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_range_start"  type="number" >
+                0
+            </Value>
+            <Value property="loop_range_end"  type="number" >
+                1
+            </Value>
+            <Value property="loop_mode"  type="number" >
+                0
+            </Value>
+            <Value property="preview_volume_level"  type="number" >
+                100
+            </Value>
+            <Value property="item"  type="sample" />
+        </Object>
+    </Properties>
+</JukeboxPatch>
